@@ -1,8 +1,7 @@
-{"Name":"Svitlana",
-"Age":42,
-"count of pets":1,
-"My_salary":5000}
-
-
-Hello word
+<soft_skills>
+  <first>Empathy</first>
+  <second>Attention to detail</second>
+  <third>Comunication</third>
+  <fourth>Solve problem</fourth>
+  </soft_skills>
 
